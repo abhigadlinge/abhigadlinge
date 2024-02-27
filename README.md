@@ -63,12 +63,10 @@ I bring enthusiasm and dedication to every project I undertake. With a strong in
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhijeet's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abhigadlinge&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
- <div> 
+ <span> 
     <a href="https://github.com/abhigadlinge/github-readme-stats"><img alt="Abhijeet's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abhigadlinge&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
- </div>
- <div>
+ </span>
   <a href="https://github.com/abhigadlinge/github-readme-stats"><img alt="Abhijeet's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhigadlinge&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-   </div>
   <br/>
   
 
