@@ -64,7 +64,7 @@ I bring enthusiasm and dedication to every project I undertake. With a strong in
     </a>
 </p>
 
-    <a href="https://github.com/Chandrakant92/github-readme-stats"><img alt="Abhijeet's github Stats" src="https://github-readme-stats.vercel.app/api?username=abhigadlinge&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/abhigadlinge/github-readme-stats"><img alt="Abhijeet's github Stats" src="https://github-readme-stats.vercel.app/api?username=abhigadlinge&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/abhigadlinge/github-readme-stats"><img alt="Abhijeet's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhigadlinge&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
