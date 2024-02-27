@@ -64,8 +64,6 @@ I bring enthusiasm and dedication to every project I undertake. With a strong in
   
 
 <br/>
-<br/>
-
 
 
 ## Connect with me:
@@ -88,5 +86,8 @@ I bring enthusiasm and dedication to every project I undertake. With a strong in
 
 
 ## ❤ Views and Followers
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhigadlinge&label=Profile%20views&color=0e75b6&style=flat" alt="abhigadlinge" /> </p>
+<div display="flex">
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhigadlinge&label=Profile%20views&color=0e75b6&style=flat" alt="abhigadlinge" /> </p>
 <a href="https://github.com/abhigadlinge?tab=followers"><img src="https://img.shields.io/github/followers/abhigadlinge?label=Followers&style=social" alt="GitHub Badge"></a>
+
+</div>
