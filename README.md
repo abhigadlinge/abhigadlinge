@@ -23,7 +23,7 @@ I bring enthusiasm and dedication to every project I undertake. With a strong in
 
 <!-- - ⚡ Fun fact **I just love to code have tea and again code** -->
 
-<br>
+
 ## 🚀 Languages and Tools:
 
 <div align="left">
