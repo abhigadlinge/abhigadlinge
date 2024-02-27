@@ -22,7 +22,8 @@ I bring enthusiasm and dedication to every project I undertake. With a strong in
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://abhigadlinge.github.io/portfolio_website.github.io/)** 
 
 <!-- - ⚡ Fun fact **I just love to code have tea and again code** -->
-<br/>
+
+<br>
 ## 🚀 Languages and Tools:
 
 <div align="left">
