@@ -7,7 +7,7 @@ I bring enthusiasm and dedication to every project I undertake. With a strong in
 <p>Outside of my work, I actively participate in hackathons.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhigadlinge&label=Profile%20views&color=0e75b6&style=flat" alt="abhigadlinge" /> </p>
-<br>
+
 
 ## 🙍‍♂️ About Me
 
