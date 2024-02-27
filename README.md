@@ -57,14 +57,22 @@ I bring enthusiasm and dedication to every project I undertake. With a strong in
 
 ## 📊 My Github Stats
 
- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhigadlinge&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhigadlinge&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=abhigadlinge&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
+ 
+<p align="center">
+    <a href="https://github.com/Chandrakant92/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhijeet's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abhigadlinge&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+    <a href="https://github.com/Chandrakant92/github-readme-stats"><img alt="Abhijeet's github Stats" src="https://github-readme-stats.vercel.app/api?username=abhigadlinge&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/abhigadlinge/github-readme-stats"><img alt="Abhijeet's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhigadlinge&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
   
 
-<br/>
+
+
+  
+
 
 
 ## ❤️ Connect with me:
